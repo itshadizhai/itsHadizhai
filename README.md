@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hadizha Kozubaeva  
+# 👋 Hi, I'm Hadizha 
 
 🎓 Computer Science Student @ National Louis University (Chicago)  
 💻 Front-End Developer passionate about React, clean UI design & functional web apps  
