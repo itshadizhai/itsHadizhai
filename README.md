@@ -19,16 +19,20 @@
 
 ---
 
-### 🚀 Featured Projects  
-🔹 [To-Do List (API Version)](https://github.com/itsHadizhai/todo-api-react)  
-CRUD app using React, Redux Toolkit, and Axios with a mock REST API.  
+### 🚀 Featured Projects
+
+🔹 [Authentication App (User Login & Profile)](https://github.com/itshadizhai/peakspace-auth)  
+Full authentication flow built with React, TypeScript, Redux Toolkit, and React Router.  
+Includes Sign Up, Sign In, Logout, protected routes, and global session state management.
+
+🔹 [To-Do List (API Version)](https://github.com/itshadizhai/todo-api-react)  
+CRUD app using React, Redux Toolkit, and Axios with a mock REST API.
 
 🔹 Flexbox Froggy Clone  
-Interactive CSS game built with React and TypeScript for flexbox practice.  
+Interactive CSS game built with React and TypeScript for flexbox practice.
 
 🔹 Bilingual English Test App  
-Duolingo-inspired app with quizzes, progress tracking, and API integration.  
-
+Duolingo-inspired app with quizzes, progress tracking, and API integration.
 ---
 
 ### 📫 Connect with Me  
