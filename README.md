@@ -31,8 +31,7 @@ CRUD app using React, Redux Toolkit, and Axios with a mock REST API.
 🔹 Flexbox Froggy Clone  
 Interactive CSS game built with React and TypeScript for flexbox practice.
 
-🔹 [Bilingual English Test App](https://github.com/itshadizhai/bilingual-english-testing-app
-food-ordering-app) 
+🔹 [Bilingual English Test App](https://github.com/itshadizhai/bilingual-english-testing-app) 
 Duolingo-inspired app with quizzes, progress tracking, and API integration.
 ---
 
