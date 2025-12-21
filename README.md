@@ -21,7 +21,7 @@
 
 ### 🚀 Featured Projects
 
-🔹 [Authentication App (User Login & Profile)](https://github.com/itshadizhai/peakspace-auth)  
+🔹 [Authentication App (User Login & Profile)](https://github.com/itshadizhai/react-authentication-app)  
 Full authentication flow built with React, TypeScript, Redux Toolkit, and React Router.  
 Includes Sign Up, Sign In, Logout, protected routes, and global session state management.
 
@@ -31,7 +31,8 @@ CRUD app using React, Redux Toolkit, and Axios with a mock REST API.
 🔹 Flexbox Froggy Clone  
 Interactive CSS game built with React and TypeScript for flexbox practice.
 
-🔹 Bilingual English Test App  
+🔹 [Bilingual English Test App](https://github.com/itshadizhai/bilingual-english-testing-app
+food-ordering-app) 
 Duolingo-inspired app with quizzes, progress tracking, and API integration.
 ---
 
